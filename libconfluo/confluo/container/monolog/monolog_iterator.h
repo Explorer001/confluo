@@ -1,6 +1,8 @@
 #ifndef CONFLUO_CONTAINER_MONOLOG_MONOLOG_ITERATOR_H_
 #define CONFLUO_CONTAINER_MONOLOG_MONOLOG_ITERATOR_H_
 
+#include <cstddef>
+
 /**
  * Iterator for monologs.
  */

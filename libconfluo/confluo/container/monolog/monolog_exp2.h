@@ -2,6 +2,7 @@
 #define CONFLUO_CONTAINER_MONOLOG_MONOLOG_EXP2_H_
 
 #include <array>
+#include <cstddef>
 #include <vector>
 
 #include "atomic.h"
